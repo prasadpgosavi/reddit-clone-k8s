@@ -5,7 +5,7 @@ This project demonstrates how to deploy a Reddit clone app on Kubernetes with In
 Before you begin, you should have the following tools installed on your local machine: 
 
 - Docker
-- Minikube cluster ( Running )
+- Kubeatm master and worker node
 - kubectl
 - Git
 
